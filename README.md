@@ -20,6 +20,7 @@ When you have answered all the questions, commit and push to your repository.
 
 7. What is your favorite movie?							Harry potter
 
+8. Describe your dream job?    a job that allows me to travel around the world
 ### Advanced Content:
 
 From your fork, make a new branch.
